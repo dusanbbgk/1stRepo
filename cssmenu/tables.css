@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 1px solid #757575;
+    font: 100% "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+
+}
+
+table td {
+    border: 1px solid #888888;
+    padding: .3em;
+    background-color: #333;
+    color: white;
+}
+
+table th {
+    border: 1px solid #666666;
+    padding: .3em;
+    color: #000;
+    background-color: #555;
+}
+
