@@ -1,3 +1,3 @@
 # Mobile phones webshop
-Thesis
+Thesis - 
 HTML5, CSS3, JavaScript, PHP, MySQL
